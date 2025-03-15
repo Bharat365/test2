@@ -18,3 +18,4 @@ new Awesomplete('input[data-multiple]', {
 	}
 });
 </script>
+test
